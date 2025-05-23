@@ -1,0 +1,6 @@
+streamlit
+sounddevice
+numpy
+python-dotenv
+assemblyai
+wave
